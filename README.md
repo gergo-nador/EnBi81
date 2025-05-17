@@ -10,5 +10,5 @@
 
 <h3>Top Languages:</h3>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnBi81&layout=compact&disable_animations=true&langs_count=10" alt="Most used languages" width="320" height="250" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gergo-nador&layout=compact&disable_animations=true&langs_count=10" alt="Most used languages" width="320" height="250" />
 
