@@ -1,10 +1,10 @@
-<h1>EnBi81</h1>
+<h1>Gergo Nador</h1>
 
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=EnBi81&show_icons=true&hide_rank=true" alt="Github Stats" width="320" height="250"/>-->
 
 <h3>Quick Info</h3>
 
-- 👋 Hi, I’m @EnBi81 (Gergo Nador)
+- 👋 Hi, I’m Gergo Nador
 - 👨‍🎓 Software Technology Engineering in Denmark
 - 🏢 Software Engineer at Channable
 
